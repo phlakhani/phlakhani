@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Nice Meeting you ! 
+Glad you come across my profile, Let's connect ! 
+
+I'm a Salesforce enthusiast and Senior Developer with over 5 years of hands-on experience. 
+
+Like many others, I too stumbled into the Salesforce ecosystem unexpectedly, and it turned out to be a fortunate discovery for me. 
+
+I love and excel in problem-solving and developing robust Salesforce solutions across various domains including Sales, Service, Financial Services Cloud (FSC), and Experience Cloud. Beyond this, I enjoy sharing my insights through Salesforce blogs, aiming to inspire and empower fellow professionals in the ecosystem.
