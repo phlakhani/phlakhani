@@ -14,9 +14,9 @@ I love and excel in problem-solving and developing robust Salesforce solutions a
 
 
 
-- 👨‍💻 Take a look at my portfolio : [https://phlakhani.github.io/](https://phlakhani.github.io/)
+- 👨‍💻 Take a look at my portfolio : <a href="https://phlakhani.github.io/" target="_blank">phlakhani.github.io</a>
 
-- 📝 I regularly write articles on :  [https://salesforcefox.com/](https://salesforcefox.com/)
+- 📝 I regularly write articles on : <a href="https://salesforcefox.com/" target="_blank">salesforcefox.com</a>
 
 
 <h3 align="left">Connect with me:</h3>
